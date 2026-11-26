@@ -1,10 +1,8 @@
 <div align="center">
 
-# Apu
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:0f172a,50:1e293b,100:334155&text=Sanjidur%20Rahman%20Apu&fontColor=E6C875&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20Apps%20%7C%20AI%20%26%20ML&descAlignY=62&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Sanjidur Rahman Apu"/>
 
-**Software Developer**
-
-Mobile Applications &nbsp;·&nbsp; Artificial Intelligence & Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C9A227&center=true&vCenter=true&width=720&lines=Mobile+Application+Developer;Exploring+AI+%26+Machine+Learning;Building+Practical+Digital+Products;Learning+%7C+Building+%7C+Improving" alt="Typing animation"/>
 
 <br/>
 
@@ -12,13 +10,17 @@ Mobile Applications &nbsp;·&nbsp; Artificial Intelligence & Machine Learning
 <img src="https://img.shields.io/badge/Focus-Mobile_Development-1f2937?style=flat-square&logo=android&logoColor=E6C875" alt="Mobile Development"/>
 <img src="https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-1f2937?style=flat-square&logo=tensorflow&logoColor=E6C875" alt="AI and Machine Learning"/>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanjidur-8267&style=flat-square&color=C9A227&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
 ---
 
 ## About
 
-I am a developer who builds practical software: mobile applications, AI-powered tools, and data-processing projects. I learn by shipping real products, and I care about clean interfaces, reliable behaviour, and code that is easy to maintain.
+I am **Sanjidur Rahman Apu**, a developer who builds practical software: mobile applications, AI-powered tools, and data-processing projects. I learn by shipping real products, and I care about clean interfaces, reliable behaviour, and code that is easy to maintain.
 
 **Current focus**
 
@@ -127,6 +129,14 @@ A data-focused project that collects, cleans, and organizes Hadith texts with Ar
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&hide_border=true&theme=github_dark&title_color=E6C875">
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&hide_border=true&theme=default&title_color=8a6d1d">
 </picture>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sanjidur-8267&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjidur-8267&bg_color=0D1117&color=E6C875&line=C9A227&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
