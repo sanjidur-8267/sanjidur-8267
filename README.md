@@ -1,162 +1,242 @@
-<div align="center">
+<!-- ================= PROFILE HEADER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=210&color=0:0f172a,50:1e293b,100:334155&text=Sanjidur%20Rahman%20Apu&fontColor=E6C875&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20Apps%20%7C%20AI%20%26%20ML&descAlignY=62&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Sanjidur Rahman Apu"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Sanjidur%20Rahman%20Apu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile Header"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C9A227&center=true&vCenter=true&width=720&lines=Mobile+Application+Developer;Exploring+AI+%26+Machine+Learning;Building+Practical+Digital+Products;Learning+%7C+Building+%7C+Improving" alt="Typing animation"/>
+<p align="center">
+  <img src="./apu.jpg" width="165" alt="Sanjidur Rahman Apu"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation"/>
+</p>
 
-<a href="https://github.com/sanjidur-8267"><img src="https://img.shields.io/badge/GitHub-sanjidur--8267-1f2937?style=flat-square&logo=github&logoColor=E6C875" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Focus-Mobile_Development-1f2937?style=flat-square&logo=android&logoColor=E6C875" alt="Mobile Development"/>
-<img src="https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-1f2937?style=flat-square&logo=tensorflow&logoColor=E6C875" alt="AI and Machine Learning"/>
+<p align="center">
+  <b>Building digital experiences through code, creativity and innovation.</b>
+</p>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sanjidur-8267&style=flat-square&color=C9A227&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-## About
-
-I am **Sanjidur Rahman Apu**, a developer who builds practical software: mobile applications, AI-powered tools, and data-processing projects. I learn by shipping real products, and I care about clean interfaces, reliable behaviour, and code that is easy to maintain.
-
-**Current focus**
-
-- Mobile application development with React Native, Expo, and Android
-- Applied machine learning and deep learning for real-world problems
-- Data collection, processing, and automation pipelines
+<p align="center">
+  <a href="https://github.com/sanjidur-8267">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-Innovation-8B5CF6?style=for-the-badge"/>
+</p>
 
 ---
 
-## Selected Projects
+<!-- ================= ABOUT ME ================= -->
 
-### VidFlix
+<h2 align="center">✨ About Me</h2>
 
-*Android video downloader*
+<p align="center">
+  I'm a developer passionate about creating Android applications,<br/>
+  modern websites and intelligent technology-driven solutions.
+</p>
 
-A modern video downloading application with a clean interface and a simple, download-focused user experience. Distributed as signed release APKs with in-app update support.
-
-- Android application with a clean, modern design
-- Signed release builds for multiple architectures (arm64-v8a, armeabi-v7a, universal)
-- In-app update notifications driven by a hosted version manifest
-
-**Stack:** Android · Gradle · GitHub Releases
-
-[Source code](https://github.com/sanjidur-8267/VidFlix) &nbsp;|&nbsp; [Download APK](https://github.com/sanjidur-8267/VidFlix/releases/latest)
-
-<br/>
-
-### PlantX
-
-*AI crop disease identification and management*
-
-An AI-powered agriculture application that identifies crop diseases from photos using a deep learning model, with prediction results and disease information for farmers.
-
-- Image-based plant disease detection
-- Deep learning model integration with prediction output
-- Crop disease information and guidance
-- Mobile application
-
-**Stack:** React Native · Expo · Python · TensorFlow
-
-[Source code](https://github.com/sanjidur-8267/REPO_NAME) &nbsp;|&nbsp; [Live demo](https://example.com)
-
-<br/>
-
-### Al Hidayah
-
-*Islamic knowledge and daily practice*
-
-A mobile application for accessing authentic Islamic knowledge and keeping up with daily practices in one place.
-
-- Quranic resources and Hadith collections
-- Daily Amal tracking
-- Bookmarks and saved content
-- Mobile-friendly learning experience
-
-**Stack:** React Native · Expo · Firebase · JavaScript
-
-[Source code](https://github.com/sanjidur-8267/REPO_NAME)
-
-<br/>
-
-### HadithBN
-
-*Hadith data collection and processing*
-
-A data-focused project that collects, cleans, and organizes Hadith texts with Arabic text, Bangla translation, and grading information in structured JSON.
-
-- Automated Hadith data collection
-- Arabic text with Bangla translation
-- Hadith grading information
-- Structured, reusable JSON datasets
-
-**Stack:** Python · Node.js · JSON · Web Scraping
-
-[Source code](https://github.com/sanjidur-8267/REPO_NAME)
+<p align="center">
+  🚀 Exploring new technologies & building real-world projects<br/>
+  📱 Focused on Android application development<br/>
+  🌐 Creating modern web experiences<br/>
+  🤖 Interested in Artificial Intelligence & Machine Learning<br/>
+  🎨 Passionate about UI, design and digital creativity
+</p>
 
 ---
 
-## Technical Skills
+<!-- ================= PROJECTS ================= -->
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, Python, HTML, CSS |
-| **Frameworks & Libraries** | React, React Native, Expo, Node.js |
-| **Mobile & Backend** | Android, Firebase |
-| **AI & Machine Learning** | TensorFlow, Deep Learning |
-| **Tools** | Git, GitHub, VS Code, Android Studio |
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<!-- VIDFLIX -->
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,firebase,tensorflow,git,github,vscode,androidstudio&perline=13" alt="Technology icons"/>
+<h3 align="center">🎬 VidFlix</h3>
 
-</div>
+<p align="center">
+  <img src="./vidflix_mockup.png" width="100%" alt="VidFlix Android App Mockup"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App-Media%20Downloader-FF3158?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Privacy-Browsing-8B5CF6?style=flat-square"/>
+</p>
+
+<p align="center">
+  A modern Android application combining media downloading and private browsing in one experience.
+</p>
+
+**Highlights**
+
+- 📥 Media downloading experience
+- 🎞️ Video quality options
+- 🌐 Built-in private browser
+- 🛡️ Privacy and DNS features
+- 📱 Modern Android interface
+
+<h4 align="center">🌐 Official Website</h4>
+
+<p align="center">
+  <a href="https://vidflixpremium.netlify.app/">
+    <img src="./vidflix_website_mockup.png" width="100%" alt="VidFlix Official Website Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vidflixpremium.netlify.app/">
+    <img src="https://img.shields.io/badge/Official_Website-Visit-FF3158?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sanjidur-8267/VidFlix/releases">
+    <img src="https://img.shields.io/badge/Download-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sanjidur-8267/VidFlix">
+    <img src="https://img.shields.io/badge/Source-Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## GitHub Activity
+<!-- ELITE ESTATES -->
 
-<div align="center">
+<h3 align="center">🏡 Elite Estates</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanjidur-8267&show_icons=true&hide_border=true&theme=github_dark&title_color=E6C875&icon_color=E6C875">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sanjidur-8267&show_icons=true&hide_border=true&theme=default&title_color=8a6d1d&icon_color=8a6d1d">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&hide_border=true&theme=github_dark&title_color=E6C875">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&hide_border=true&theme=default&title_color=8a6d1d">
-</picture>
+<p align="center">
+  <img src="./eliteestates_mockup.png" width="85%" alt="Elite Estates Real Estate Website"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Category-Real%20Estate-C9A227?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Web-38BDF8?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-Premium-8B5CF6?style=flat-square"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=sanjidur-8267&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8B949E&dates=8B949E" alt="GitHub streak"/>
+<p align="center">
+  A modern real estate website featuring elegant property showcases,<br/>
+  sophisticated layouts and a premium browsing experience.
+</p>
 
-<br/><br/>
+**Highlights**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjidur-8267&bg_color=0D1117&color=E6C875&line=C9A227&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+- 🏠 Property showcase
+- 💎 Premium real estate presentation
+- 🔎 Property discovery experience
+- 📐 Modern web layout
+- 🌐 Responsive website design
 
-</div>
+<p align="center">
+  <a href="https://tafs-estate.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_Official_Website-Explore_Elite_Estates-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## Contact
+<!-- FLIXBAY -->
 
-<div align="center">
+<h3 align="center">🍿 FlixBay</h3>
 
-<a href="https://github.com/sanjidur-8267"><img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=E6C875" alt="GitHub"/></a>
+<p align="center">
+  <img src="./flixbay_mockup.png" width="85%" alt="FlixBay Movie Website"/>
+</p>
 
-<!--
-Add more contact links when ready:
+<p align="center">
+  <img src="https://img.shields.io/badge/Category-Entertainment-FF3158?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Platform-Web-38BDF8?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Theme-Cinematic%20Dark-8B5CF6?style=flat-square"/>
+</p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=E6C875" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=gmail&logoColor=E6C875" alt="Email"/></a>
--->
+<p align="center">
+  A cinematic movie discovery experience with a modern dark interface,<br/>
+  featured titles and entertainment-focused visual design.
+</p>
 
-<br/><br/>
+**Highlights**
 
-<sub>Learning · Building · Improving</sub>
+- 🎬 Movie discovery interface
+- 🍿 Featured entertainment content
+- 🌑 Cinematic dark UI
+- 🎨 Modern visual experience
+- 📱 Responsive browsing design
 
-</div>
+<p align="center">
+  <a href="https://flixbay.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit_Website-Explore_FlixBay-9B59FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"/>
+  <img src="https://img.shields.io/badge/Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=000020"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile_Development-00C9A7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Web_Development-38BDF8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=flat-square"/>
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjidur-8267&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=9B59FF&text_color=FFFFFF&rank_icon=github" height="180" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjidur-8267&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjidur-8267&theme=tokyonight&hide_border=true&background=0D1117&ring=9B59FF&fire=FF3158&currStreakLabel=00E5FF" width="95%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 Connect & Explore</h2>
+
+<p align="center">
+  <a href="https://github.com/sanjidur-8267">
+    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Let's+build+something+amazing+%F0%9F%9A%80" alt="Animated Footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer" width="100%" alt="Footer Banner"/>
+</p>
+
+<p align="center">
+  <b>© Sanjidur Rahman Apu · Built with passion ❤️</b>
+</p>
