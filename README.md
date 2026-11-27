@@ -1,15 +1,15 @@
-<!-- ================= PROFILE HEADER ================= -->
+<!-- =============== HEADER =============== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Sanjidur%20Rahman%20Apu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile Header"/>
 </p>
 
 <p align="center">
-  <img src="./apu.jpg" width="165" alt="Sanjidur Rahman Apu"/>
+  <img src="./apu.jpg" width="160" alt="Sanjidur Rahman Apu"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Introduction"/>
 </p>
 
 <p align="center">
@@ -26,9 +26,7 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
-<h2 align="center">✨ About Me</h2>
+## ✨ About Me
 
 <p align="center">
   I'm a developer passionate about creating Android applications,<br/>
@@ -36,7 +34,7 @@
 </p>
 
 <p align="center">
-  🚀 Exploring new technologies & building real-world projects<br/>
+  🚀 Exploring new technologies and building real-world projects<br/>
   📱 Focused on Android application development<br/>
   🌐 Creating modern web experiences<br/>
   🤖 Interested in Artificial Intelligence & Machine Learning<br/>
@@ -45,37 +43,68 @@
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+# 🚀 Featured Projects
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- =============== PROJECT 01 : PLANTX =============== -->
 
-<!-- VIDFLIX -->
+<h2 align="center">🌱 PlantX</h2>
 
-<h3 align="center">🎬 VidFlix</h3>
+<p align="center">
+  <img src="./plantx.png" width="100%" alt="PlantX AI Crop Disease Detection App"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Crop%20Disease%20Detection-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Android-Mobile%20App-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Plant%20Health-8B5CF6?style=flat-square"/>
+</p>
+
+<p align="center">
+  <b>AI-Powered Crop Disease Identification & Management System</b>
+</p>
+
+PlantX is an intelligent agriculture application designed to help users identify plant diseases, understand crop health and explore suitable fertilizer and spray management recommendations.
+
+### ✨ Features
+
+- 🌿 AI-based plant disease identification
+- 📸 Leaf image scanning
+- 🔬 Disease diagnosis
+- 🌱 Crop health information
+- 🧪 Fertilizer guidance
+- 💧 Spray management assistance
+- 🤖 AI-powered agricultural assistance
+- 📱 User-friendly mobile interface
+
+---
+
+<!-- =============== PROJECT 02 : VIDFLIX =============== -->
+
+<h2 align="center">🎬 VidFlix</h2>
 
 <p align="center">
   <img src="./vidflix_mockup.png" width="100%" alt="VidFlix Android App Mockup"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/App-Media%20Downloader-FF3158?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Privacy-Browsing-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Android-App-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Media-Downloader-FF3158?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Privacy-Browser-8B5CF6?style=flat-square"/>
 </p>
 
 <p align="center">
   A modern Android application combining media downloading and private browsing in one experience.
 </p>
 
-**Highlights**
+### ✨ Features
 
 - 📥 Media downloading experience
-- 🎞️ Video quality options
+- 🎞️ Multiple quality options
 - 🌐 Built-in private browser
 - 🛡️ Privacy and DNS features
 - 📱 Modern Android interface
 
-<h4 align="center">🌐 Official Website</h4>
+### 🌐 Official Website
 
 <p align="center">
   <a href="https://vidflixpremium.netlify.app/">
@@ -91,15 +120,15 @@
     <img src="https://img.shields.io/badge/Download-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
   <a href="https://github.com/sanjidur-8267/VidFlix">
-    <img src="https://img.shields.io/badge/Source-Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Repository-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ELITE ESTATES -->
+<!-- =============== PROJECT 03 : ELITE ESTATES =============== -->
 
-<h3 align="center">🏡 Elite Estates</h3>
+<h2 align="center">🏡 Elite Estates</h2>
 
 <p align="center">
   <img src="./eliteestates_mockup.png" width="85%" alt="Elite Estates Real Estate Website"/>
@@ -116,7 +145,7 @@
   sophisticated layouts and a premium browsing experience.
 </p>
 
-**Highlights**
+### ✨ Features
 
 - 🏠 Property showcase
 - 💎 Premium real estate presentation
@@ -126,15 +155,15 @@
 
 <p align="center">
   <a href="https://tafs-estate.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_Official_Website-Explore_Elite_Estates-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live_Website-Explore_Elite_Estates-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- FLIXBAY -->
+<!-- =============== PROJECT 04 : FLIXBAY =============== -->
 
-<h3 align="center">🍿 FlixBay</h3>
+<h2 align="center">🍿 FlixBay</h2>
 
 <p align="center">
   <img src="./flixbay_mockup.png" width="85%" alt="FlixBay Movie Website"/>
@@ -151,7 +180,7 @@
   featured titles and entertainment-focused visual design.
 </p>
 
-**Highlights**
+### ✨ Features
 
 - 🎬 Movie discovery interface
 - 🍿 Featured entertainment content
@@ -161,13 +190,13 @@
 
 <p align="center">
   <a href="https://flixbay.netlify.app/">
-    <img src="https://img.shields.io/badge/Visit_Website-Explore_FlixBay-9B59FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live_Website-Explore_FlixBay-9B59FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- =============== TECH STACK =============== -->
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -201,7 +230,7 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB STATS =============== -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -219,7 +248,7 @@
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- =============== CONNECT =============== -->
 
 <h2 align="center">🌐 Connect & Explore</h2>
 
