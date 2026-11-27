@@ -1,7 +1,7 @@
-<!-- =============== HEADER =============== -->
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Sanjidur%20Rahman%20Apu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Profile Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=Sanjidur%20Rahman%20Apu&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Android%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16" width="100%" alt="Sanjidur Rahman Apu"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated Introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjidur+Rahman+Apu+%F0%9F%91%8B;Android+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <a href="https://github.com/sanjidur-8267">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web%20Development-06B6D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-06B6D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Passion-Innovation-8B5CF6?style=for-the-badge"/>
 </p>
 
@@ -45,18 +45,18 @@
 
 # 🚀 Featured Projects
 
-<!-- =============== PROJECT 01 : PLANTX =============== -->
+<!-- PROJECT 01 — PLANTX -->
 
 <h2 align="center">🌱 PlantX</h2>
 
 <p align="center">
-  <img src="./plantx.png" width="100%" alt="PlantX AI Crop Disease Detection App"/>
+  <img src="./plantx.png" width="100%" alt="PlantX AI Crop Disease Identification App Mockup"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Crop%20Disease%20Detection-4CAF50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Android-Mobile%20App-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Plant%20Health-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Android-Mobile%20Application-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Agriculture-8B5CF6?style=flat-square"/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 
 PlantX is an intelligent agriculture application designed to help users identify plant diseases, understand crop health and explore suitable fertilizer and spray management recommendations.
 
-### ✨ Features
+### ✨ Key Features
 
 - 🌿 AI-based plant disease identification
 - 📸 Leaf image scanning
@@ -78,60 +78,57 @@ PlantX is an intelligent agriculture application designed to help users identify
 
 ---
 
-<!-- =============== PROJECT 02 : VIDFLIX =============== -->
+<!-- PROJECT 02 — VIDFLIX -->
 
 <h2 align="center">🎬 VidFlix</h2>
 
 <p align="center">
-  <img src="./vidflix_mockup.png" width="100%" alt="VidFlix Android App Mockup"/>
+  <img src="./vidflix-github-banner.png" width="100%" alt="VidFlix Android App and Website Mockup"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-App-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Media-Downloader-FF3158?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Privacy-Browser-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Private-Browsing-8B5CF6?style=flat-square"/>
 </p>
 
 <p align="center">
-  A modern Android application combining media downloading and private browsing in one experience.
+  <b>A modern media downloader and privacy-focused browsing experience.</b>
 </p>
 
-### ✨ Features
+VidFlix combines media downloading, multiple quality options and a built-in browser in a modern Android application.
 
-- 📥 Media downloading experience
-- 🎞️ Multiple quality options
-- 🌐 Built-in private browser
+### ✨ Key Features
+
+- 📥 Video and media downloading
+- 🎞️ Multiple video quality options
+- 🎵 Audio and music download experience
+- 🌐 Built-in browser
 - 🛡️ Privacy and DNS features
 - 📱 Modern Android interface
 
-### 🌐 Official Website
+### 🌐 Official Links
 
 <p align="center">
   <a href="https://vidflixpremium.netlify.app/">
-    <img src="./vidflix_website_mockup.png" width="100%" alt="VidFlix Official Website Preview"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://vidflixpremium.netlify.app/">
-    <img src="https://img.shields.io/badge/Official_Website-Visit-FF3158?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-Visit_VidFlix-FF3158?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/sanjidur-8267/VidFlix/releases">
     <img src="https://img.shields.io/badge/Download-APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
   <a href="https://github.com/sanjidur-8267/VidFlix">
-    <img src="https://img.shields.io/badge/Repository-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- =============== PROJECT 03 : ELITE ESTATES =============== -->
+<!-- PROJECT 03 — ELITE ESTATES -->
 
 <h2 align="center">🏡 Elite Estates</h2>
 
 <p align="center">
-  <img src="./eliteestates_mockup.png" width="85%" alt="Elite Estates Real Estate Website"/>
+  <img src="./elite-estates-github-banner.png" width="100%" alt="Elite Estates Real Estate Website Mockup"/>
 </p>
 
 <p align="center">
@@ -141,16 +138,17 @@ PlantX is an intelligent agriculture application designed to help users identify
 </p>
 
 <p align="center">
-  A modern real estate website featuring elegant property showcases,<br/>
-  sophisticated layouts and a premium browsing experience.
+  <b>A modern real estate experience designed for property discovery.</b>
 </p>
 
-### ✨ Features
+Elite Estates is a property showcase website featuring modern architecture, premium property presentation and a clean browsing experience.
+
+### ✨ Key Features
 
 - 🏠 Property showcase
 - 💎 Premium real estate presentation
-- 🔎 Property discovery experience
-- 📐 Modern web layout
+- 🔎 Property discovery
+- 🏢 Modern property layouts
 - 🌐 Responsive website design
 
 <p align="center">
@@ -161,12 +159,12 @@ PlantX is an intelligent agriculture application designed to help users identify
 
 ---
 
-<!-- =============== PROJECT 04 : FLIXBAY =============== -->
+<!-- PROJECT 04 — FLIXBAY -->
 
 <h2 align="center">🍿 FlixBay</h2>
 
 <p align="center">
-  <img src="./flixbay_mockup.png" width="85%" alt="FlixBay Movie Website"/>
+  <img src="./flixbay-github-banner.png" width="100%" alt="FlixBay Movie Website Mockup"/>
 </p>
 
 <p align="center">
@@ -176,17 +174,18 @@ PlantX is an intelligent agriculture application designed to help users identify
 </p>
 
 <p align="center">
-  A cinematic movie discovery experience with a modern dark interface,<br/>
-  featured titles and entertainment-focused visual design.
+  <b>A cinematic movie discovery experience with a modern dark interface.</b>
 </p>
 
-### ✨ Features
+FlixBay brings entertainment discovery into a stylish interface with movie collections, featured content and a cinematic browsing experience.
+
+### ✨ Key Features
 
 - 🎬 Movie discovery interface
-- 🍿 Featured entertainment content
+- 🍿 Featured movies
 - 🌑 Cinematic dark UI
-- 🎨 Modern visual experience
-- 📱 Responsive browsing design
+- 🎨 Modern visual design
+- 📱 Responsive browsing experience
 
 <p align="center">
   <a href="https://flixbay.netlify.app/">
@@ -196,7 +195,7 @@ PlantX is an intelligent agriculture application designed to help users identify
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- TECH STACK -->
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -225,12 +224,12 @@ PlantX is an intelligent agriculture application designed to help users identify
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile_Development-00C9A7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Web_Development-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=flat-square"/>
 </p>
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- GITHUB STATS -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -248,9 +247,9 @@ PlantX is an intelligent agriculture application designed to help users identify
 
 ---
 
-<!-- =============== CONNECT =============== -->
+<!-- CONNECT -->
 
-<h2 align="center">🌐 Connect & Explore</h2>
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/sanjidur-8267">
@@ -259,11 +258,11 @@ PlantX is an intelligent agriculture application designed to help users identify
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Let's+build+something+amazing+%F0%9F%9A%80" alt="Animated Footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F;Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Let's+build+something+amazing+%F0%9F%9A%80" alt="Animated Thank You"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=130&section=footer" width="100%" alt="Footer"/>
 </p>
 
 <p align="center">
